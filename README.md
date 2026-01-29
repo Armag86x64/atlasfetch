@@ -37,7 +37,7 @@ atlasfetch [options]
 
 **Atlas Fetch** generates a comprehensive system report, organized into sections. Below is a description of all fields and their values.
 
-##### **1. Operating System (OS)**
+#### **1. Operating System (OS)**
 
 Basic information about the operating environment.
 
@@ -52,7 +52,7 @@ Basic information about the operating environment.
 - **Shell**: Path to the default command-line shell (`/bin/bash`).
     
 
-##### **2. Battery**
+#### **2. Battery**
 
 Information about the portable power source (displayed only on laptops).
 
@@ -61,21 +61,21 @@ Information about the portable power source (displayed only on laptops).
 - **Status**: Current operating mode and charge level (`Discharging [69%]`). Possible values: `Charging`, `Discharging`, `Full`, `Not charging`.
     
 
-##### **3. Graphics Processing Unit (GPU)**
+#### **3. Graphics Processing Unit (GPU)**
 
 Data about the primary/integrated graphics adapter.
 
 - **Vendor & Model**: Chip manufacturer and model (`Intel Corporation Raptor Lake-P [UHD Graphics]`).
     
 
-##### **4. Random Access Memory (RAM)**
+#### **4. Random Access Memory (RAM)**
 
 Summary of RAM usage.
 
 - **Usage**: Displayed in the format `Used/Total (Free)`. Example: `3.12 GiB/15.35 GiB (12.22 GiB)`.
     
 
-##### **5. Central Processing Unit (CPU)**
+#### **5. Central Processing Unit (CPU)**
 
 Detailed information about the central processing unit.
 
@@ -90,7 +90,7 @@ Detailed information about the central processing unit.
     - **L3**: Shared third-level cache (`12288 KiB`).
         
 
-##### **6. Storage (Disk)**
+#### **6. Storage (Disk)**
 
 Information about physical partitions and their mount points.
 
