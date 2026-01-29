@@ -6,7 +6,7 @@
 
 **Atlas Fetch** is a neofetch-like CLI utility for retrieving system information and displaying it in a user-friendly way. It is written entirely in Rust, using a minimal number of external crates to gather data. The target operating system is Linux; the program does not work on other systems (Windows/macOS).
 
----
+
 
 <h2 align="center">Installation</h2>
 
@@ -20,7 +20,7 @@ cargo build --release
 sudo cp target/release/atlasfetch /bin
 ```
 
----
+
 
 <h2 align="center">Usage</h2>
 
@@ -31,7 +31,7 @@ atlasfetch [options]
 - **`--debug`**  
     Enables debug mode. If errors occur, it outputs information about them: the module (disk, cpu, gpu, etc.), the function (e.g., get_cache_size()), and the stage (e.g., opening a file) where the error happened.
 
----
+
 
 <h2 align="center">  What information is displayed</h2>
 
