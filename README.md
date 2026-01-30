@@ -4,7 +4,7 @@
 
 <h2 align="center">Atlasfetch</h2>
 
-<img align="center" alt="GitHub License" src="https://img.shields.io/github/license/Armag86x64/atlasfetch?style=for-the-badge"> <img align="center" alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Armag86x64/atlasfetch?style=for-the-badge"> <a align="center" href="README_RU.md"><img alt="Static Badge" src="https://img.shields.io/badge/RU-README-red?style=for-the-badge"></a>
+<img align="center" alt="GitHub License" src="https://img.shields.io/github/license/Armag86x64/atlasfetch?style=for-the-badge"> <img align="center" alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Armag86x64/atlasfetch?style=for-the-badge"> <a href="README_RU.md"><img align="center" alt="Static Badge" src="https://img.shields.io/badge/RU-README-red?style=for-the-badge"></a>
 
 **Atlas Fetch** is a neofetch-like CLI utility for retrieving system information and displaying it in a user-friendly way. It is written entirely in Rust, using a minimal number of external crates to gather data. The target operating system is Linux; the program does not work on other systems (Windows/macOS).
 
