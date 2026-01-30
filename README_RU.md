@@ -10,7 +10,7 @@
 
 ---
 
-<h2 align="center">Installation</h2>
+<h2 align="center">Установка</h2>
 
 Для установки утилиты вам обязательно нужно установить Rust вместе с [Cargo](https://rust-lang.org/tools/install/)
 
@@ -24,7 +24,7 @@ sudo cp target/release/atlasfetch /bin
 
 ---
 
-<h2 align="center">Usage</h2>
+<h2 align="center">Использование</h2>
 
 ```sh
 atlasfetch [options]
